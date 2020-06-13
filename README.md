@@ -6,7 +6,7 @@ soundness and memory safety.
 
 The API design is adapted from
 [fitzgen/generational-arena](https://github.com/fitzgen/generational-arena), but
-only consits of a subset.
+only consits of a subset. Requires nightly `rustc` for const generics.
 
 - **Arena**: request a chunk of memory and perform manual management of the
   requested memory.
