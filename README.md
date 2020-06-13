@@ -4,7 +4,7 @@ Learning from <https://www.youtube.com/watch?v=SofC6c9xQv4>. This particular
 implementation does not prioritize performance (yet) but instead strives for
 soundness and memory safety.
 
-The API design is adapted from
+The API design and code is adapted from
 [fitzgen/generational-arena](https://github.com/fitzgen/generational-arena), but
 only consits of a subset. Requires nightly `rustc` for const generics.
 
