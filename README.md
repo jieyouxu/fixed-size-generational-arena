@@ -1,4 +1,4 @@
-# Homogenous Generational Arena
+# Fixed-Size Homogenous Generational Arena
 
 Learning from <https://www.youtube.com/watch?v=SofC6c9xQv4>. This particular
 implementation does not prioritize performance (yet) but instead strives for
